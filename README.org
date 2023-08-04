@@ -1,0 +1,9 @@
+* mutils
+
+A collection of Common Lisp modules
+
+|---------+----------------------------------------|
+| source  | git:https://github.com/mmontone/mutils |
+| commit  | e59fca9                                |
+| systems | mutils                                 |
+|---------+----------------------------------------|
