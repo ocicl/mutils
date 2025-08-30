@@ -4,6 +4,6 @@ A collection of Common Lisp modules
 
 |---------+----------------------------------------|
 | source  | git:https://github.com/mmontone/mutils |
-| commit  | 2ae83b4                                |
+| commit  | 7668ab0                                |
 | systems | mutils                                 |
 |---------+----------------------------------------|
